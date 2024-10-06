@@ -12,7 +12,7 @@ class AppError extends Error{
         this.message=message;
         this.explanation=explanation;
         this.statusCode=statusCode;
-       
+        
 
     }
 }
